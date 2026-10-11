@@ -1,0 +1,25 @@
+# Large/raw data
+data_wind_aei/
+data/nlr_raw/
+data/nlr_processed/
+
+# Generated results
+results_new/
+results_nlr/
+results_wind_aei/
+results/
+figures/
+
+# Generated/cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
