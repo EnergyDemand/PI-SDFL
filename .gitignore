@@ -218,3 +218,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# PI-SDFL project-specific exclusions
+
+# External/raw data
+data_wind_aei/
+data/nlr_raw/
+data/nlr_processed/
+
+# Generated experiment outputs
+results_new/
+results_nlr/
+results_wind_aei/
+results/
+figures/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# IDE
+.idea/
+.vscode/
