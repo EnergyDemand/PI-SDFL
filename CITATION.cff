@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated PI-SDFL paper."
+title: "PI-SDFL: Trust-Gated Physics-Informed Sequential Decentralized Federated Learning"
+type: software
+authors:
+  - family-names: "Naqvi"
+    given-names: "Syed Shehryar Ali"
+
+repository-code: "https://github.com/EnergyDemand/PI-SDFL"
+url: "https://github.com/EnergyDemand/PI-SDFL"
+license: MIT
