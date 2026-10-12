@@ -92,22 +92,22 @@ the Rockies Data Catalog.
 The study uses the following four public datasets:
 
 1. **NLR Historical Wind**
-   - Dataset: Public Reference Data for Megawatt-Scale Hydrogen Electrolysis - NLR Historical Wind
+   - Dataset page: https://data.nlr.gov/submissions/316
    - DOI: 10.7799/3024096
    - File used: `combined_historical_wind_experiments.csv`
 
 2. **NLR Historical Solar PV**
-   - Dataset: Public Reference Data for Megawatt-Scale Hydrogen Electrolysis - NLR Historical Solar PV
+   - Dataset page: https://data.nlr.gov/submissions/318
    - DOI: 10.7799/3372313
    - File used: `combined_solarPV_experiments.csv`
 
 3. **Simulated Wind**
-   - Dataset: Public Reference Data for Megawatt-Scale Hydrogen Electrolysis - Simulated Wind
+   - Dataset page: https://data.nlr.gov/submissions/305
    - DOI: 10.7799/3007835
    - File used: `combined_wind_experiments.csv`
 
 4. **Simulated Marine Hydrokinetic Tidal Turbine**
-   - Dataset: Public Reference Data for Megawatt-Scale Hydrogen Electrolysis - Simulated Marine Hydrokinetic Tidal Turbine
+   - Dataset page: https://data.nlr.gov/submissions/317
    - DOI: 10.7799/3364185
    - File used: `combined_tidal_experiments.csv`
 
